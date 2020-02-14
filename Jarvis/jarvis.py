@@ -22,7 +22,7 @@ voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
 
 window = Tk()
-window.iconbitmap(r'C:\Users\Nkb\Documents\icon.ico')
+window.iconbitmap(r'D:\GitHub\HACKTEAM17\Jarvis\img\Icon.ico')
 
 
 global var
