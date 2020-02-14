@@ -178,8 +178,4 @@ def Ask():
             speak('opening Google')
             webbrowser.open("http://www.google.co.in/search?q=")   
 
-        elif 'sing a song' in query:
-            var.set('Twinkle, twinkle, little star How I wonder what you are Up above the world so high Like a diamond in the sky Twinkle')
-            window.update()
-            speak('Twinkle, twinkle, little star How I wonder what you are Up above the world so high Like a diamond in the sky Twinkle, twinkle little star How I wonder what you are')     
-
+       
